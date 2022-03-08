@@ -1,4 +1,4 @@
-import ConfigParser
+import configparser
 from importlib import import_module
 import netifaces
 import inspect
